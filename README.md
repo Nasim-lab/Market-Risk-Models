@@ -18,7 +18,14 @@ This repository contains four Excel-based risk modeling projects:
 2. Open the file in Excel.
 3. Replace input data with your own.
 4. Review outputs, and metrics.
+   
+## Table of Contents
 
+- [GARCH Model](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/GARCH)
+- [EWMA Model](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/EWMA)
+- [Historical Simulation](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Historical_Simulation)
+- [Monte Carlo Simulation](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Monte_Carlo)
+- [Other Models](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Other_Models)
 
 ## 📧 Contact
 **Farhat Nasim** – [farhatanasim@protonmail.com] – [linkedin.com/in/san-b-282384313]
