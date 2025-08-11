@@ -19,13 +19,13 @@ This repository contains four Excel-based risk modeling projects:
 3. Replace input data with your own.
 4. Review outputs, and metrics.
    
+
 ## Table of Contents
 
-- [GARCH Model](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/GARCH)
-- [EWMA Model](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/EWMA)
-- [Historical Simulation](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Historical_Simulation)
-- [Monte Carlo Simulation](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Monte_Carlo)
-- [Other Models](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Other_Models)
+- [VAR — 99% 1-Day VaR](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/VAR_99pct_1day)
+- [GARCH (Normal Distribution)](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/GARCH_NormalDist)
+- [Portfolio VaR — 6 Stocks](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Portfolio_VaR_6Stocks)
+- [Merton Model — Probability of Default (PD)](https://github.com/Nasim-lab/Market-Risk-Models/tree/main/Merton_Model_PD)
 
 ## 📧 Contact
 **Farhat Nasim** – [farhatanasim@protonmail.com] – [linkedin.com/in/san-b-282384313]
