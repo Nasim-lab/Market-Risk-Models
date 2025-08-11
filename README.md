@@ -17,7 +17,7 @@ This repository contains four Excel-based risk modeling projects:
 1. Navigate to a project folder to view its README and download the Excel file.
 2. Open the file in Excel.
 3. Replace input data with your own.
-4. Review outputs, charts, and metrics.
+4. Review outputs, and metrics.
 
 
 ## 📧 Contact
