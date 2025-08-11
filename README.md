@@ -1,2 +1,6 @@
 # Market-Risk-Models
-Collection of Excel models for market and credit risk analysis — covering 99% 1-Day VaR with backtesting, GARCH volatility modeling, portfolio VaR for six stocks, and Merton model PD estimation.
+Portfolio of Excel models for market and credit risk:
+99% 1-day VaR with backtesting (excess loss/capital, traffic-light breaches)
+GARCH volatility modeling (normal distribution)
+Portfolio VaR for six stocks
+Merton model for probability of default, asset value & volatility
