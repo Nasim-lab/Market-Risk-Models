@@ -1,0 +1,14 @@
+# GARCH Model – Normal Distribution
+
+## 📌 Overview
+This Excel workbook implements a **GARCH(1,1)** model to forecast volatility assuming a normal distribution of returns.
+
+## 📊 Key Features
+- Models volatility clustering in financial data.
+- Forecasts conditional variance for risk management.
+- Visualizes volatility trends through charts.
+
+## 🚀 How to Use
+1. Open the Excel file.
+2. Enter your returns data.
+3. Analyze volatility forecasts and charts.
